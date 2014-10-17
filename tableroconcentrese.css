@@ -1,0 +1,15 @@
+body
+{
+	background:#0099FF;
+}
+
+#pagina
+{
+	background-image:url(000.jpg);
+	bkacground-repeat:repeat;
+	width:1000px;/* 1000 es el tamaño que tendra la división */
+	height:450px;/* 450 es el tamaño que tendra la división de altura */
+	margin:20px 60px;/*20px indica el espacio arriba i abajo que se va a dejar con relación a la pagina, el 260px es lo mismo           pero aplicado a la izquierda y derecha*/
+	/*background-color:#FFF;/*pónemos el background en color blanco de la division de la pagina complera*/
+	padding:0 100px;/*deja un espacio de 0 arriba ya abajo y pone uno de 40 pixeles a la izq y derecha*/
+}
